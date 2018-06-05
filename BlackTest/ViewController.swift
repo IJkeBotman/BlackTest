@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let fuckYou = "Gennaro"
+        for _ in fuckYou {
+            print("ffuccccck")
+        }
         // Do any additional setup after loading the view, typically from a nib.
     }
 
